@@ -336,7 +336,7 @@ input {
 /*=============== home section ===============*/
 .home-section {
   background-color: #f7f7f7;
-  background-image: url('/assets/images/hero_background.jpg');
+  background-image: url('assets/images/hero_background.jpg');
   background-position: top left;
   background-repeat: no-repeat;
   background-size:35vw;
