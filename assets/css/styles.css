@@ -336,7 +336,7 @@ input {
 /*=============== home section ===============*/
 .home-section {
   background-color: #f7f7f7;
-  background-image: url('../assets/images/hero_background.jpg');
+  background-image: url('..assets/images/hero_background.jpg');
   background-position: top left;
   background-repeat: no-repeat;
   background-size:35vw;
@@ -354,7 +354,7 @@ input {
 
 /*=============== coaching section ===============*/
 .coaching-section {
-  background-image: url('../assets/images/coaching.jpg');
+  background-image: url('..assets/images/coaching.jpg');
 }
 .demo-btn {
   margin: 0;
@@ -381,7 +381,7 @@ input {
 }
 /*=============== courses section ===============*/
 .courses-section {
-  background-image: url('../assets/images/courses.jpg');
+  background-image: url('..assets/images/courses.jpg');
 }
 .courses-text{
   margin: var(--mb-1-5) 0;
